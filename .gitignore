@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # champop-jupyter specific
 resources/
 .DS_Store
 *.tar.gz
+=======
+ImageMagick-7.0.8-53/
+ImageMagick.tar.gz
+screen_capture.jpg
+>>>>>>> 3e282178bae3e41cbceaaf8173c746c6e947abe6
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
